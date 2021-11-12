@@ -1,0 +1,5 @@
+Subir app a expo.
+Crear Paginas de navegacion 
+    -app --- Screens 
+    anadir el componente de navegacion 
+            yarn add @react-navigation/native
